@@ -1,0 +1,12 @@
+/* *{
+  border: 1px solid black;
+} */
+.bg-grey{
+  background-color: lightgray;
+}
+.border-bottom{
+  border-bottom: gray;
+}
+header{
+  padding-bottom: 20vh;
+}
